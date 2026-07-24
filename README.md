@@ -2,24 +2,16 @@
 
 <!-- ─────────── Header / Typing ─────────── -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=560&height=100&lines=Hi%2C+I'm+Bruno+Funnie+%F0%9F%91%8B;Software+Engineer+%7C+PHP+%C2%B7+TS+%C2%B7+React;Currently+learning+AI+and+stuff+%F0%9F%A4%96" alt="Typing SVG" />
+<br/>
+<a href="https://www.linkedin.com/in/bruoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bruno%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://funnie.dev" target="_blank"><img src="https://img.shields.io/badge/Website-funnie.dev-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Website" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- ─────────── Row 1: Stats | Top Languages ─────────── -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=brunofunnie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofunnie&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&border_radius=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <!-- ─────────── Row 2: Streak | Streak Details (followers/repo/stars) ─────────── -->
 <table>
@@ -41,28 +33,6 @@
 
 <!-- ─────────── Activity Graph (full width) ─────────── -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunofunnie&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
-
-<br/><br/>
-
-<!-- ─────────── Trophies (full width) ─────────── -->
-<img src="https://github-profile-trophy.vercel.app/?username=brunofunnie&theme=tokyonight&column=8&margin-w=10&margin-h=10&no-bg=true" width="95%" alt="Trophies" />
-
-<br/><br/>
-
-<!-- ─────────── Row: Dev Joke | Dev Quote ─────────── -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
-    </td>
-  </tr>
-</table>
-
-<!-- ─────────── Profile Views (full width) ─────────── -->
-<img src="https://komarev.com/ghpvc/?username=brunofunnie&color=7aa2f7&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 
 <br/><br/>
 
@@ -91,11 +61,5 @@
 <img src="https://img.shields.io/github/last-commit/brunofunnie/brunofunnie?label=Last%20Commit&style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=c0caf5" alt="Last Commit" />
 
 <br/><br/>
-
-<a href="https://www.linkedin.com/in/bruoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bruno%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://funnie.dev" target="_blank"><img src="https://img.shields.io/badge/Website-funnie.dev-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Website" /></a>
-
-<br/>
 
 </div>
