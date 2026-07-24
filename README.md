@@ -6,6 +6,19 @@
 <a href="https://www.linkedin.com/in/bruoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bruno%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://funnie.dev" target="_blank"><img src="https://img.shields.io/badge/Website-funnie.dev-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Website" /></a>
+<br/>
+<!-- ─────────── Tech Stack (full width) ─────────── -->
+<h3>Tech Stack</h3>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </div>
 
@@ -21,44 +34,20 @@
     </td>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=$.data.followers&url=https://api.github.com/users/brunofunnie&style=for-the-badge&labelColor=24283b&color=7aa2f7&logo=github&logoColor=c0caf5" alt="Followers" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.data.public_repos&url=https://api.github.com/users/brunofunnie&style=for-the-badge&labelColor=24283b&color=9ece6a&logo=github&logoColor=c0caf5" alt="Public Repos" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/brunofunnie?label=Total%20Stars&style=for-the-badge&labelColor=24283b&color=e0af68&logo=github&logoColor=c0caf5" alt="Stars" />
+     <!-- ─────────── Status: Learning/Language/Social/Last Active ─────────── -->
+      <h3>Status &amp; Links</h3>
+
+      <img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20stuff-9ece6a?style=for-the-badge&logo=openai&logoColor=white" alt="Currently Learning" />
       <br/>
+      <img src="https://img.shields.io/badge/Taught%20by-TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=white" alt="Language" />
+      <br/>
+      <img src="https://img.shields.io/github/last-commit/brunofunnie/brunofunnie?label=Last%20Commit&style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=c0caf5" alt="Last Commit" />
     </td>
   </tr>
 </table>
 
 <!-- ─────────── Activity Graph (full width) ─────────── -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunofunnie&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
-
-<br/><br/>
-
-<!-- ─────────── Tech Stack (full width) ─────────── -->
-<h3>Tech Stack</h3>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-<br/><br/>
-
-<!-- ─────────── Status: Learning/Language/Social/Last Active ─────────── -->
-<h3>Status &amp; Links</h3>
-
-<img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20stuff-9ece6a?style=for-the-badge&logo=openai&logoColor=white" alt="Currently Learning" />
-&nbsp;
-<img src="https://img.shields.io/badge/Taught%20by-TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=white" alt="Language" />
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/brunofunnie/brunofunnie?label=Last%20Commit&style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=c0caf5" alt="Last Commit" />
 
 <br/><br/>
 
