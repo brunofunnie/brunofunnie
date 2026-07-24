@@ -33,8 +33,6 @@
     </td>
     <td width="50%" align="center" valign="middle">
       <!-- ─────────── Status: Learning/Language/Social/Last Active ─────────── -->
-<h3>Status &amp; Links</h3>
-
 <img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20stuff-9ece6a?style=for-the-badge&logo=openai&logoColor=white" alt="Currently Learning" />
 &nbsp;
 <img src="https://img.shields.io/badge/Taught%20by-TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=white" alt="Language" />
