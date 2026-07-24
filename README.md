@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/bruoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bruno%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://funnie.dev" target="_blank"><img src="https://img.shields.io/badge/Website-funnie.dev-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Website" /></a>
-<br/>
-<!-- ─────────── Tech Stack (full width) ─────────── -->
+<br>
 <h3>Tech Stack</h3>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -33,15 +32,14 @@
       <img src="https://streak-stats.demolab.com/?user=brunofunnie&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <br/>
-     <!-- ─────────── Status: Learning/Language/Social/Last Active ─────────── -->
-      <h3>Status &amp; Links</h3>
+      <!-- ─────────── Status: Learning/Language/Social/Last Active ─────────── -->
+<h3>Status &amp; Links</h3>
 
-      <img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20stuff-9ece6a?style=for-the-badge&logo=openai&logoColor=white" alt="Currently Learning" />
-      <br/>
-      <img src="https://img.shields.io/badge/Taught%20by-TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=white" alt="Language" />
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/brunofunnie/brunofunnie?label=Last%20Commit&style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=c0caf5" alt="Last Commit" />
+<img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20stuff-9ece6a?style=for-the-badge&logo=openai&logoColor=white" alt="Currently Learning" />
+&nbsp;
+<img src="https://img.shields.io/badge/Taught%20by-TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=white" alt="Language" />
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/brunofunnie/brunofunnie?label=Last%20Commit&style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=c0caf5" alt="Last Commit" />
     </td>
   </tr>
 </table>
